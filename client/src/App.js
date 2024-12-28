@@ -1,10 +1,10 @@
 import React from 'react'
+import Piece from './chess/model/piece'
 
 const App = () => {
   return (
     <>
-    this all changes is for the git testing
-    <h1>this is also for checking the git testing</h1>
+<Piece/>
     </>
   )
 }
